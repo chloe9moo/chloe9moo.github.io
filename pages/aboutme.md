@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About Me
+image: cuba-2.jpg
 permalink: /aboutme
 ---
 

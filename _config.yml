@@ -11,8 +11,8 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		       "Chloe E. Moore"
-description:	       "aka Chloe E. Moore (Voorhees), a population + community + spatial ecologist; conservation biologist"
-#author:                "Paul Le"
+description:	       "population + community + spatial ecology / conservation biology"
+author:                "aka Chloe E. Moore Voorhees"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
