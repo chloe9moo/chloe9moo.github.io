@@ -3,7 +3,7 @@ title: Chloe E. Moore
 subtitle: 
 email: chloe9mo@gmail.com
 description: WEBSITE IN PROGRESS<br /> CHECK BACK SOON.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: 

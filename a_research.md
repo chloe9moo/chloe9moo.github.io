@@ -4,7 +4,7 @@ title: Research
 permalink: /research
 landing-title: Research
 nav-menu: true
-description: research interests + previous projects
+description: research interests + projects
 image: assets/images/pinnaclespond.jpg
 author: null
 ---
