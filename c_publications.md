@@ -19,15 +19,22 @@ author: null
 			<p>My name is bolded. * denotes an undergraduate researcher I directly mentored.</p>		
 		</header>
 	</div>
+<p>While I periodically update this list, the most up to date lists can be found at either of these links:</p>
+<ul class="actions">
+	<li><a href="https://scholar.google.com/citations?user=ZRoLceMAAAAJ&hl=en" class="button special">Google Scholar</a></li>
+	<li><a href="https://www.researchgate.net/profile/Chloe-Moore" class="button species">ResearchGate</a></li>
+</ul>
+
 </section>
 <!--<hr class="major" />-->
 
 <!--Pub List-->
+<section id="pubList">
+	
+<h2>2024</h2>
 
-<h3>2024</h3>
+<h2>2023</h2>
 
-<h3>2023</h3>
+<p>Dubose, T.P., <b>C.E. Moore</b>, S. Silknetter, A.L. Benson, T. Alexander * , G. O'Malley, & M.C. Mims. 2023. Mismatch between conservation status and climate change sensitivity leaves some anurans in the Untied States unprotected. <i>Biological Conservation</i>. <a href="https://www.sciencedirect.com/science/article/pii/S0006320722004190">LINK</a>.</p>
 
-<p>Dubose, T.P., <b>C.E. Moore</b>, S. Silknetter, A.L. Benson, T. Alexander * , G. O'Malley, & M.C. Mims. 2023. Mismatch between conservation status and climate change sensitivity leaves some anurans in the Untied States unprotected. <i>Biological Conservation</i> <a href="https://www.sciencedirect.com/science/article/pii/S0006320722004190">LINK</a>.</p>
-
-
+</section>
