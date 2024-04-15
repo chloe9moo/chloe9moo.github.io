@@ -5,7 +5,7 @@ permalink: /cv
 landing-title: CV
 nav-menu: true
 description: 
-#image: assets/images/pinnaclespond.jpg
+image: assets/images/mammothlakes.jpg
 author: null
 ---
 
