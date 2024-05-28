@@ -2,16 +2,17 @@
 title: Chloe E. Moore
 subtitle: 
 email: chloe9mo@gmail.com
-description: WEBSITE IN PROGRESS<br /> CHECK BACK SOON.
+description: website in progress.<br />
+  check back soon.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
-author:
-street_address: 
+  # author:
+  # street_address: 
   #city: Nashville
   #state: TN
   #zip_code: 55555
   #country: United States of America
-phone: 
+  # phone: 
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
