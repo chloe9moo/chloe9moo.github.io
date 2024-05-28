@@ -9,7 +9,7 @@ image: assets/images/mammothlakes.jpg
 author: null
 ---
 
-<object data="/assets/files/CV.pdf" type="application/pdf" width="100%" height="600px">
+<object data="/assets/files/CV.pdf" type="application/pdf" width="100%" height="1000px">
     <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/files/CV.pdf">Download PDF</a>.</p>
 </object>
 

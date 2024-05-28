@@ -64,3 +64,13 @@ img {
 			}
 		}
 	}
+
+///additional image test:	
+.profile-photo {
+    float: left; /* Aligns the image to the left side */
+    margin-right: 20px; /* Adds some space between the image and the text */
+    width: 300px; /* Adjust the width of the image */
+    height: auto; /* Ensures the image maintains its aspect ratio */
+    border-radius: 10px; /* Optional: Adds rounded corners to the image */
+}
+
