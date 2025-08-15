@@ -35,5 +35,9 @@ author: null
 		<header class="major">
 			<h2 id="researchinfo">Research</h2>
 			<p>MORE INFO COMING SOON.</p>
+			<img src="/assets/images/research_map.png" alt="Map of the US highlighting regions where I conducted or assisted with research." style="max-width: 100%; height: auto;">
+    </div>
+</section>
+
 
 
